@@ -1,4 +1,6 @@
 # basiux
+Benevolent Artificial Super Intelligence User eXperience
+
 Licensed under the LICENSE.txt - JUSTWTFPL
 
 Starting with:
