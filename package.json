@@ -1,0 +1,23 @@
+{
+   "name"            : "basiux"
+  ,"version"         : "0.1.0"
+  ,"description"     : "Benevolent Artificial Super Intelligence User eXperience"
+
+  ,"author"          : { "name"  : "Caue Rego"
+                       , "email" : "caue@basiux.com" }
+
+  ,"repository"      : { "type"  : "git"
+                       , "url"   : "git://github.com/basiux/basiux.git" }
+
+  ,"keywords"        : [ "artificial", "intelligence"
+                       , "artificial intelligence", "machine learning" ]
+
+  ,"license"         : { "type"  : "JUSTWTFPL"
+                       , "url"   : "https://raw.githubusercontent.com/basiux/basiux/master/LICENSE.txt" }
+
+  ,"dependencies"    : { ""      : "" }
+
+  ,"devDependencies" : { ""      : "" }
+
+  ,"scripts"         : { "test"  : "node server.js" }
+}
