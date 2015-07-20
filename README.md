@@ -8,3 +8,5 @@ Starting with:
 - Travis CI to automate testing
 
 More info: www.basiux.com
+
+[![Build Status](https://travis-ci.org/basiux/basiux.svg?branch=master)](https://travis-ci.org/basiux/basiux)
