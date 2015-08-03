@@ -26,8 +26,8 @@
     "start": "node server.js"
   },
   "bugs": {
-    "url": "https://github.com/basiux/basiux/issues"
+    "url": "http://talk.basiux.com"
   },
-  "homepage": "https://github.com/basiux/basiux",
+  "homepage": "http://basiux.com",
   "main": "server.js"
 }

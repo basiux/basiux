@@ -4,7 +4,7 @@
 Licensed under the LICENSE.txt - JUSTWTFPL
 
 Starting with:
-- semaphoreci to develop, test, deploy and [run](http://run.basiux.com)
+- semaphoreci to develop, test and eventually deploy
 
 More info: www.basiux.com
 
