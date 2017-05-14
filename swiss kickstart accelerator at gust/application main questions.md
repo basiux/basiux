@@ -3,10 +3,11 @@
 ## Goals
 ### Why do you apply for Kickstart Accelerator? What are the main goals you want to achieve?
 
-basiux have one goal. to build the super intelligence (let's call it ai for short). and for that, we need every support we can find. we've got none (financially speaking) so getting in this program would mean a lot! I do realize our current stage might be out of scope for you, but Mathhias said we should try anyway.
+basiux have one goal. to build "the super intelligence" (let's call it, ai for short). having half of our prototype, we still need to start this up, for which this program would mean a lot to us!
 
-our next milestone is to build a system to teach some basic blocks of such ai to kids (and anyone). a "tamagotchi" game with a visual representation of the neural network while it's building it up. during those 3 months, we hope being able to make the mvp even without a prototype. we want to focus on selling the idea to schools, probably in the UK or (now) in
-Swiss.
+our next milestone is to build ai4schools, a system to teach some basic blocks of such ai (namely how neural networks work) to kids (thus, anyone), because everybody needs to better understand ai. in practice it's a game played by an ai with a visual representation of its neural network, so we can watch it growing from zero and understand how the machine learns (which actually tells a lot about our own brain).
+
+during those 3 months, we hope being able to make the mvp even without a prototype. we want to focus on selling the idea to schools, probably in the UK or (now) in Swiss.
 
 # Company & Product
 
@@ -20,6 +21,25 @@ formed in 2015 as a studying project in a field with almost no players trying to
 
 intelligence is arguably the most complex topic we as human beings need to resolve as soon as possible. the unlikely dangers it may impose by itself (as media loves to point) I believe is an actually irrelevant aspect. we strive for the uncountable problems it can help to resolve, including the imminent human-race-as-we-know-it extermination through unexpected and highly probable events such as global warming or meteor impact. nobody knows the right solution to any of this. we must follow our guts and go with whatever makes sense to each one of us. but need to be properly informed first.
 
+ai4schools comes as a first step into trying to make the human race understand ai more broadly, in a fun and unique way, to allow the knowledge to spread.
+
+# Team
+
+## Co-founders / Core Team
+### Please introduce your team including roles and explain why you have all the necessary skills and experience in your team? Who has which expertise in which domain / business area? [max. 200 words]
+
+caue, programmer and some business skills;
+maira, journalist and communication specialist;
+luiara, teacher and business consultant;
+gustavo, entrepreneur and ui/ux designer;
+
+we all strongly believe education is the core foundation of society and ai will become ubiquitous. ai4schools is an ambitious project which needs people who agree with this vision. the team is growing and will get bigger before we have all needed to ignite the project.
+
+## Team History
+### How did you meet your co-founders? How long have you been working together? [max. 200 words]
+
+maira is my wife for 8 years now and she helps me with the communication whenever she can. luiara is my sister and gustavo my childhood friend. we've been working on this for almost 3 years now, since basiux foundation. basically, they support me in whichever endeavor I get myself in. most of the practical work have been polishing up the idea, some prototype building and pitching in some places such as lisbon startup pirates, london google campus and portuguese shark tank pre-screening.
+
 ## Start With Why
 ### Why did you start this company? What excites you about it? [max. 200 words]
 
@@ -27,14 +47,14 @@ the impossible: change everything. everything. any technology that's too advance
 
 how can this not excite anyone?!
 
-I can't say I've realised all my dreams, but I also never had one which was also a life goal as this. I had nothing before that excites me as much as basiux. I literally went crazy about it.
+I can't say I've realized all my dreams, but I also never had one which was such a life goal as this. I had nothing before that excites me as much as basiux. I literally went crazy about it.
 
 # Traction & Potential
 
 ## Product Validation
 ### What steps have you taken to validate the product with users? Please specify. [max. 200 words]
 
-I don't think the product has any traction what so ever. the one step taken was building the website, which yield to practically zero feedback.
+talking to people. built the basiux website, looking for ordinary user's feedback.
 
 ## Business Model Validation
 ### Is your business model based on assumptions or validated facts? Please specify. [max. 200 words]
@@ -112,7 +132,7 @@ none we are aware of.
 ## Outsourcing
 ### Do you have any parts of your business outsourced? [max. 200 words]
 
-we'd only wish. perhaps in 2020.
+we'd only wish. perhaps soon.
 
 ## Supplier Risk
 ### Are you heavily dependend on suppliers? If yes, how do you mitigate the supplier risk? [max. 200 words]
